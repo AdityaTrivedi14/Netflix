@@ -1,0 +1,343 @@
+body{
+    background-image: url('Netflix-Background.jpg');
+    top: 50%;
+    left: 0;
+    box-shadow: 250px 700px 400px #000000, inset -150px -150px 550px #000000;
+}
+
+#netflixlogo{ 
+	position: absolute; 
+	top: 25px;
+    left: 50px; 
+} 
+
+.topright{
+    position: absolute;
+    top: 25px;
+    right: 65px;
+}
+
+#Slogan{
+    font-size: 50px;
+    font-family: Arial;
+    color: white;
+}
+
+#Slogan2{
+    font-size: 25px;
+    font-family: Arial;
+    color: white;
+}
+
+#Slogan3{
+    font-size: 20px;
+    font-family: Arial;
+    color: white;
+}
+
+#InputEmailAddress{
+   padding-left: 355px;
+   position: absolute;    
+}
+#GetStartedButton{
+    min-width: 250px;
+    height: 60px;
+    display: flex;
+    position: absolute;
+    padding-left: 793px;
+}
+
+#OnlyMembers{
+    color: white;
+    font-family: arial;
+}
+
+.EnjoyTV{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.EnjoyTV2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: 200px;
+    padding-top: 100px;
+}
+
+.EnjoyTV3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.Video{
+    height: 200px;
+    width: 40%;
+    padding-left: 820px;
+    padding-top: 50px;
+}
+/* CSS: class is with a period (.) and section and div id are with a hashtag # sign*/
+
+.BlackBackground{
+    margin: 20px -15px;
+    background: black; 
+    border: 7px solid rgb(53, 52, 52);
+    flex-direction: column;
+    padding-bottom: 125px;
+}
+
+.BlackBackground2{
+    margin: 20px -15px;
+    margin-top: -40px;
+    background: black; 
+    border: 7px solid rgb(53, 52, 52);
+    padding-left: 600px;
+    padding-bottom: 100px;
+}
+
+.IphoneImage{
+    padding: 430px 25px;
+
+}
+
+.BlackBackground3{
+    margin: 20px -15px;
+    margin-top: -40px;
+    background: black; 
+    border: 7px solid rgb(53, 52, 52);
+    flex-direction: column;
+    padding-bottom: 125px;
+}
+
+.BlackBackground4{
+    margin: 20px -15px;
+    margin-top: -40px;
+    background: black; 
+    border: 7px solid rgb(53, 52, 52);
+    flex-direction: column;
+    padding-bottom: 125px;
+}
+
+.FrequentlyAskedQuestions{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Questions{
+    margin-top: 70px;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 200px;
+}
+
+.PhoneNumber{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.FAQLink{
+    padding-top: 50px;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 200px;
+    font-size: 13px;
+}
+
+.SpeedTestLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 200px;
+    font-size: 13px;
+}
+
+.PrivacyLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 200px;
+    font-size: 13px;
+}
+
+
+.InvestorRelationsLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 200px;
+    font-size: 13px;
+}
+
+.HelpCenterLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 850px;
+    float: right;
+    font-size: 13px;
+    margin-top: -135px;
+}
+
+.JobsLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 890px;
+    float: right;
+    font-size: 13px;
+    margin-top: -100px;
+}
+
+.CookiePreferencesLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 805px;
+    float: right;
+    font-size: 13px;
+    margin-top: -70px;
+}
+
+.LegalNoticesLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 840px;
+    float: right;
+    font-size: 13px;
+    margin-top: -33px;
+}
+
+.AccountLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 600px;
+    float: right;
+    font-size: 13px;
+    margin-top: -135px;
+}
+
+.WaysToApproachLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 540px;
+    float: right;
+    font-size: 13px;
+    margin-top: -101px;
+}
+
+.CorporateInformationLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 520px;
+    float: right;
+    font-size: 13px;
+    margin-top: -70px;
+}
+
+.NetflixOriginalsLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 555px;
+    float: right;
+    font-size: 13px;
+    margin-top: -35px;
+}
+
+.MediaCenterLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 350px;
+    float: right;
+    font-size: 13px;
+    margin-top: -135px;
+}
+
+.TermsofUseLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 350px;
+    float: right;
+    font-size: 13px;
+    margin-top: -105px;
+}
+
+.ContactUsLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 360px;
+    float: right;
+    font-size: 13px;
+    margin-top: -75px;
+}
+
+.NetflixGuatemalaLink{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 1195px;
+    float: right;
+    font-size: 13px;
+    margin-top: 50px;
+}
+
+.FAQ{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    list-style: none;
+    flex-direction: column;
+    flex-basis: 40%;
+}
+
+.FAQ li{
+    padding: 20px 30px;
+    margin: 5px;
+    margin-left: 300px;
+    font-size: 1.6rem;
+    background-color: #303030;
+    color: white;
+    text-align: left;
+    width: 50%;
+}
+
+.answer1{
+    padding: 20px 30px;
+    margin: 5px;
+    margin-left: 300px;
+    font-size: 1.6rem;
+    background-color: #303030;
+    color: white;
+    text-align: left;
+    width: 50%;
+}
+
+#ReadyToWatchBottom{
+    font-size: 20px;
+    font-family: Arial;
+    color: white;
+}
+
+.TVcontainer-img{
+    padding: 100px 400px 20px 800px;
+    height: auto;
+    width: 40%;
+}
+
+.BlackBackground5{
+    margin: 20px -15px;
+    margin-top: -40px;
+    background: black; 
+    border: 7px solid rgb(53, 52, 52);
+    flex-direction: column;
+    padding-bottom: 300px;
+}
+
+/*
+.languageselectioncontainer uiselectwrapper .selectarrowprefix .uiselectmedium{
+    text-indent: 0;
+    padding-right: 26px;
+}
+
+.uiselectwrapper .selectarrowprefix .uiselectmedium{
+    padding-left: 50px;
+    text-indent: 2px;
+    line-height: 1.7;
+}
+*/
